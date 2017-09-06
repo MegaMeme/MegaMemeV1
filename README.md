@@ -1,3 +1,2 @@
 # MegaMemeV1
-string hi 
-system.out.println(hi)
+System.out.println("Alans a meme")
